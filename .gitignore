@@ -1,0 +1,19 @@
+# Visual Studio generated files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.VC.db
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.recipe
+*.log
+
+# NuGet packages are restored from packages.config
+packages/
+
